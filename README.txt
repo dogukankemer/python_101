@@ -1,6 +1,6 @@
-Öncelikle merhaba,
+Ã–ncelikle merhaba,
 
-Salgın döneminde zorunlu olarak evde kaldım ve bu süre boyunca internetten online Python programlama kursu alarak yeni bir yetenek kazanıp
-yeni bir iş alanı açmak istedim kendime. 
+SalgÄ±n dÃ¶neminde zorunlu olarak evde kaldÄ±m ve bu sÃ¼re boyunca internetten online Python programlama kursu alarak yeni bir yetenek kazanÄ±p
+yeni bir iÅŸ alanÄ± aÃ§mak istedim kendime. 
 
-Yüklediğim projeler genelde aldığım kursta yaptığım projee
+YÃ¼klediÄŸim projeler genelde aldÄ±ÄŸÄ±m kursta yaptÄ±ÄŸÄ±m projelerdir. GeliÅŸmem iÃ§in daha Ã§ok pratiÄŸe ve eleÅŸtirilerinize ihtiyacÄ±m vardÄ±r. Sizden ricam beni eleÅŸtirin. 
